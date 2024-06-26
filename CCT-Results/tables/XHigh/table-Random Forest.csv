@@ -1,0 +1,151 @@
+Dataset,Method,Accuracy,F1_Score,Precision,Recall,N_itters,N_queries
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Over Sampled,Random Forest - AL - Entropy Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Under Sampled,Random Forest - AL - Entropy Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Normal,Random Forest - AL - Entropy Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Over Sampled,Random Forest - AL - Marginal Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Under Sampled,Random Forest - AL - Marginal Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Normal,Random Forest - AL - Marginal Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Over Sampled,Random Forest - AL - Query By Committee,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Under Sampled,Random Forest - AL - Query By Committee,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Normal,Random Forest - AL - Query By Committee,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Over Sampled,Random Forest - SSL - Self Training,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Under Sampled,Random Forest - SSL - Self Training,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Normal,Random Forest - SSL - Self Training,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Over Sampled,Random Forest - SSL - Co Training,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Under Sampled,Random Forest - SSL - Co Training,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Normal,Random Forest - SSL - Co Training,0.999929328621908,0.0,0.0,0.0,5,300
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Over Sampled,Random Forest - AL - Entropy Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Under Sampled,Random Forest - AL - Entropy Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Normal,Random Forest - AL - Entropy Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Over Sampled,Random Forest - AL - Marginal Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Under Sampled,Random Forest - AL - Marginal Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Normal,Random Forest - AL - Marginal Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Over Sampled,Random Forest - AL - Query By Committee,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Under Sampled,Random Forest - AL - Query By Committee,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Normal,Random Forest - AL - Query By Committee,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Over Sampled,Random Forest - SSL - Self Training,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Under Sampled,Random Forest - SSL - Self Training,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Normal,Random Forest - SSL - Self Training,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Over Sampled,Random Forest - SSL - Co Training,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Under Sampled,Random Forest - SSL - Co Training,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Normal,Random Forest - SSL - Co Training,0.999929328621908,0.0,0.0,0.0,10,150
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Over Sampled,Random Forest - AL - Entropy Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Under Sampled,Random Forest - AL - Entropy Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Normal,Random Forest - AL - Entropy Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Over Sampled,Random Forest - AL - Marginal Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Under Sampled,Random Forest - AL - Marginal Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Normal,Random Forest - AL - Marginal Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Over Sampled,Random Forest - AL - Query By Committee,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Under Sampled,Random Forest - AL - Query By Committee,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Normal,Random Forest - AL - Query By Committee,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Over Sampled,Random Forest - SSL - Self Training,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Under Sampled,Random Forest - SSL - Self Training,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Normal,Random Forest - SSL - Self Training,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Over Sampled,Random Forest - SSL - Co Training,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Under Sampled,Random Forest - SSL - Co Training,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Normal,Random Forest - SSL - Co Training,0.999929328621908,0.0,0.0,0.0,15,100
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Over Sampled,Random Forest - AL - Entropy Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Under Sampled,Random Forest - AL - Entropy Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Normal,Random Forest - AL - Entropy Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Over Sampled,Random Forest - AL - Marginal Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Under Sampled,Random Forest - AL - Marginal Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Normal,Random Forest - AL - Marginal Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Over Sampled,Random Forest - AL - Query By Committee,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Under Sampled,Random Forest - AL - Query By Committee,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Normal,Random Forest - AL - Query By Committee,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Over Sampled,Random Forest - SSL - Self Training,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Under Sampled,Random Forest - SSL - Self Training,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Normal,Random Forest - SSL - Self Training,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Over Sampled,Random Forest - SSL - Co Training,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Under Sampled,Random Forest - SSL - Co Training,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Normal,Random Forest - SSL - Co Training,0.999929328621908,0.0,0.0,0.0,20,75
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Over Sampled,Random Forest - AL - Entropy Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Under Sampled,Random Forest - AL - Entropy Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Normal,Random Forest - AL - Entropy Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Over Sampled,Random Forest - AL - Marginal Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Under Sampled,Random Forest - AL - Marginal Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Normal,Random Forest - AL - Marginal Uncertainity Sampling,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Over Sampled,Random Forest - AL - Query By Committee,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Under Sampled,Random Forest - AL - Query By Committee,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Normal,Random Forest - AL - Query By Committee,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Over Sampled,Random Forest - SSL - Self Training,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Under Sampled,Random Forest - SSL - Self Training,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Normal,Random Forest - SSL - Self Training,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Over Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Over Sampled,Random Forest - SSL - Co Training,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Under Sampled,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Under Sampled,Random Forest - SSL - Co Training,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Normal,Random Forest - Fine Tuned,0.999929328621908,0.0,0.0,0.0,25,60
+XHigh Normal,Random Forest - SSL - Co Training,0.999929328621908,0.0,0.0,0.0,25,60
